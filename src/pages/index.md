@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee in Kata
+title: Great coffee in Kata/Karon
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a cup
 subheading: Support sustainable farming while enjoying a cup
